@@ -1,0 +1,2 @@
+# FieldCodeExport
+KintoneのアプリのフィールドコードをエクスポートするJSファイル
